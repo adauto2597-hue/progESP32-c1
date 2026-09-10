@@ -2,4 +2,9 @@
 
 int main()
 {
-    printf("hola a todos")
+    printf("hola a todos");
+printf("bienvenidos a C\");
+    intf("bienvenidos a C\");
+    printf("cuarta linea \n");
+    retunr 0;
+}
