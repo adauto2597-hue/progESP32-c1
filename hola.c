@@ -7,6 +7,7 @@ printf("bienvenidos a C\");
     intf("bienvenidos a C\");
     printf("cuarta linea \n");
     printf("quinta linea \n");
+    printf("sexta linea \n");
     printf("septima linea \n");
     retunr 0;
 }
